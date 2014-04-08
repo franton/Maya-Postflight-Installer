@@ -45,7 +45,7 @@ installer -verboseR -pkg /Install\ mentalraysatellite\ 3.11.1.app/Contents/Resou
 installer -verboseR -pkg /Install\ Suite\ Exclusives\ 2014.app/Contents/Resources/Turtle/MayaTurtlePlugIn2014.0.pkg -target /
 
 # Create the Maya2014.lic and Mudbox2014.lic files in /private/var/flexlm
-# These point to the licence server at 194.80.31.12
+# These point to the licence server address.
 
 mkdir /private/var/flexlm
 touch /private/var/flexlm/Maya2014.lic
