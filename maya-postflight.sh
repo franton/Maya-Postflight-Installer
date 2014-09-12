@@ -2,7 +2,7 @@
 
 # Postflight script to install Maya and Mudbox 2014 and point it to a licence server
 
-# Author  : r.purves@arts.ac.uk
+# Author  : contact@richard-purves.com
 # Version : 1.0 - 8-4-2014 - Initial Version
 
 # This assumes all the installers supplied by Autodesk have been installed to the root directory
